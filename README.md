@@ -2,7 +2,7 @@
 
 - 🤗 I am an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science (ICT, CAS).
 - 🔫 My research interests include deep continual learning, unsupervised machine learning, etc.
-- 👯 I am open to collaboration, feel free to contact me via email, www.huanglibo@gmail.com 👈
+- 👯 I am open to collaboration, feel free to contact me via email, [www.huanglibo(at)gmail.com](mailto:www.huanglibo@gmail.com) 👈
 
 ![](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
 
