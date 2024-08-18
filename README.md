@@ -1,19 +1,20 @@
-## 👋 Hi there, I'm *Libo Huang* 🤗
+### Hey there, I'm Libo! 🤗
 
-- 🤗 I am an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science (ICT, CAS).
-- 🔫 My research interests include machine learning theories, deep learning applications, etc.
-- :clap: I am open to collaboration, feel free to contact me via email, [www.huanglibo(at)gmail.com](mailto:www.huanglibo@gmail.com) 👈
+[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://libo-huang.github.io/)
 
-[![](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)](https://github.com/libo-huang)
+Welcome to my GitHub. 
 
+I am currently an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science.
 
+My research lies in **machine learning theories** and **deep learning applications**, with a special focus on building memorizing visual systems that are continual and data-efficient. 
 
-
-
+If you have any questions about my projects, please feel free to [send me an email](mailto:www.huanglibo@gmail.com).
 
 
 
 <!--
-**libo-huang/libo-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Libo's GitHub stats](https://github-readme-stats.vercel.app/api?username=libo-huang&show_icons=true&rank_icon=github&hide=issues)](https://github.com/libo-huang)
+- 🤗 I am an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science (ICT, CAS).
+- 🔫 My research interests include machine learning theories, deep learning applications, etc.
+- :clap: I am open to collaboration, feel free to contact me via email, [www.huanglibo(at)gmail.com](mailto:www.huanglibo@gmail.com) 👈
+[![](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)](https://github.com/libo-huang)
 -->
