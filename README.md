@@ -4,7 +4,7 @@
 
 Welcome to my GitHub. 
 
-I am currently an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science.
+I am currently an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science ([ICT, CAS](http://www.ict.ac.cn/)).
 
 My research lies in **machine learning theories** and **deep learning applications**, with a special focus on building memorizing visual systems that are continual and data-efficient. 
 
