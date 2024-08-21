@@ -10,7 +10,7 @@ My research lies in **machine learning theories** and **deep learning applicatio
 
 If you have any questions about my projects, please feel free to [send me an email](mailto:www.huanglibo@gmail.com).
 
-![Snake animation](https://raw.githubusercontent.com/libo-huang/libo-huang/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--
 - 🤗 I am an Assistant Researcher at the Institute of Computing Technology, Chinese Academy of Science (ICT, CAS).
