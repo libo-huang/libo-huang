@@ -10,3 +10,7 @@ My research lies in **machine learning theories** and **deep learning applicatio
 
 If you have any questions about my projects, please feel free to [send me an email](mailto:www.huanglibo@gmail.com).
 
+
+
+
+![snake gif](https://github.com/libo-huang/libo-huang/blob/output/github-contribution-grid-snake.gif)
