@@ -16,24 +16,24 @@ If you're stuck on model accuracy, weird data, slow code, or a tricky design, I 
 
 ## Why me? / 为什么找我？
 
-- PhD + research experience  
-- I teach — so I explain things clearly  
-- I publish papers — rigorous thinking  
-- Institute affiliation is a public record  
+- Ph.D. + research experience.
+- I teach, so I explain things clearly.
+- I publish, so I think rigorously.
+- Institute affiliation is a public record.
 
-博士学历 + 科研经验。天天给学生讲东西，能把复杂问题说清楚。发过论文，习惯严谨思考。单位背景公开可查。
+博士学历 + 科研经验。带学生，把复杂问题讲清楚。发论文，思考问题严谨。隶属机构公开可查。
 
 ---
 
 ## How we work / 怎么合作？
 
-**1. Free 30-min chat (no obligation)** – You describe your problem, I give initial thoughts.  
-**2. If it makes sense** – We agree on a small project or hourly support (like sponsored research).  
-**3. You get a solution** – Code, report, or just a clear diagnosis.
+**1. Free 30-min chat (no obligation):** You describe your problem, and I give initial thoughts.  
+**2. If it makes sense:** We agree on a small project or hourly support (like sponsored research).  
+**3. You get a solution:** Code, report, or a clear diagnosis.
 
-**第一步：免费聊半小时** – 你讲问题，我给初步想法。  
-**第二步：如果值得继续** – 按小项目或按小时协作（类似横向课题）。  
-**第三步：给你能用的东西** – 代码、方案、或一个清晰的诊断。
+**1、免费聊半小时：** 你讲问题，我给初步想法。  
+**2、如果值得继续：** 按小项目或按小时协作（类似横向课题）。  
+**3、给你解决方案：** 代码、报告、或一个清晰的诊断。
 
 > I don't list prices here because every case is different. For a rough idea: typical engagements range from a few hundred to a couple thousand USD. We'll talk after I understand your needs.
 
