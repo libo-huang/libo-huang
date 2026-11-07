@@ -1,8 +1,8 @@
 # Libo Huang / 黄礼泊
 
-I'm an assistant research fellow at a national research institute in China (PhD 2021). I do research, supervise students, and publish papers.
+I'm an associate research / associate professor fellow at a national research institute in China (PhD 2021). I do research, supervise students, and publish papers.
 
-国内某科研院所的助理研究员，21年人工智能博士毕业。平时做研究、带学生、发论文。
+国内某科研院所的副研究员/副教授，21年人工智能博士毕业。平时做研究、带学生、发论文。
 
 ---
 
